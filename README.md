@@ -24,7 +24,7 @@ LCtrl - dash
 
 # Scripts
 1. [Player Movement](Playground/Assets/Scripts/PlayerMovement.cs)
-2. [Platform Disappearing](Playground/Assets/Scripts/PlatformDiasppearing.cs)
+2. [Platform Disappearing](Playground/Assets/Scripts/PlatformDisappearing.cs)
 3. [Platform Movement](Playground/Assets/Scripts/PlatformMovement.cs)
 4. [Rigidbody Carry](Playground/Assets/Scripts/RigidbodyCarry.cs)
 5. [Reset Scene](Playground/Assets/Scripts/Water.cs)
